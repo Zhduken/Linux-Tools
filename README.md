@@ -1,2 +1,2 @@
-# Linux-Ara-lar-
+# Linux-Tools
 Linux terminal üzerinden kullanılan, kolaylık, ergonomi ve verim sağlayan araçlar
