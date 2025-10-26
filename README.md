@@ -4,7 +4,7 @@ Araçkar bizzat bu hesaba aittir ve istenilen yerde istenildiği gibi kullanıla
 Araçlar kötü niyetli değildir.İllegal amaçlar doğrultusunda kullanılmak için değiller!
 Herhangi zararlı yazılım vb. içermez ve indirilen araçların Ana klasörde bulundurulmassı önerilir!
 aracı çalıştırmak için aracın bulunduğu klasöre gidin = cd <dizin>
-ve şu modumu çalıştırın python3 "kullanacağınız araç"
+ve şu kodu çalıştırın python3 "kullanacağınız araç"
 Araçlar Hakkında!:
 
 Ginfo: Sistem bilgisi, Çalışan Süreçler gibi şeyleri kolaylıkla kontrol etmenize
