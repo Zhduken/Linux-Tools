@@ -27,3 +27,17 @@ Bomber: Terminal Üzerinden mayın tarlası oynamanıza yarayan inglizce ve tür
 ------------------------------------------------------------------>
 
 ScanN:Terminal üzerinden anlık port taraması yapmanıza yarayan terminal aracı.
+
+------------------------------------------------------------------>
+
+better-wget: yenilenmiş menüsüyle wget aracının türkçe ve ingilizce seçeneği ile sunulmuş hali.
+
+------------------------------------------------------------------>
+
+arat: Terminal komudu aramak için kullanılan türkçe terminal aracı.
+
+------------------------------------------------------------------>
+
+Netwatch: Bağlı olduğunuz yerel ağda hızlı tarama vb. yapabileceğiniz terminal aracı
+
+------------------------------------------------------------------>
